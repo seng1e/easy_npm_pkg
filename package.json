@@ -1,6 +1,6 @@
 {
   "name": "easy_npm_pkg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a new version of easy_npm_pkg which published by github action",
   "main": "index.js",
   "scripts": {
